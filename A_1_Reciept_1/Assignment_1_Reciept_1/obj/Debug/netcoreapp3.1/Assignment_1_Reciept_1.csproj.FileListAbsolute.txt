@@ -1,0 +1,27 @@
+C:\Users\marle\source\repos\C# class\Assignment_1_Reciept_1\Assignment_1_Reciept_1\bin\Debug\netcoreapp3.1\Assignment_1_Reciept_1.exe
+C:\Users\marle\source\repos\C# class\Assignment_1_Reciept_1\Assignment_1_Reciept_1\bin\Debug\netcoreapp3.1\Assignment_1_Reciept_1.deps.json
+C:\Users\marle\source\repos\C# class\Assignment_1_Reciept_1\Assignment_1_Reciept_1\bin\Debug\netcoreapp3.1\Assignment_1_Reciept_1.runtimeconfig.json
+C:\Users\marle\source\repos\C# class\Assignment_1_Reciept_1\Assignment_1_Reciept_1\bin\Debug\netcoreapp3.1\Assignment_1_Reciept_1.runtimeconfig.dev.json
+C:\Users\marle\source\repos\C# class\Assignment_1_Reciept_1\Assignment_1_Reciept_1\bin\Debug\netcoreapp3.1\Assignment_1_Reciept_1.dll
+C:\Users\marle\source\repos\C# class\Assignment_1_Reciept_1\Assignment_1_Reciept_1\bin\Debug\netcoreapp3.1\Assignment_1_Reciept_1.pdb
+C:\Users\marle\source\repos\C# class\Assignment_1_Reciept_1\Assignment_1_Reciept_1\obj\Debug\netcoreapp3.1\Assignment_1_Reciept_1.csprojAssemblyReference.cache
+C:\Users\marle\source\repos\C# class\Assignment_1_Reciept_1\Assignment_1_Reciept_1\obj\Debug\netcoreapp3.1\Assignment_1_Reciept_1.AssemblyInfoInputs.cache
+C:\Users\marle\source\repos\C# class\Assignment_1_Reciept_1\Assignment_1_Reciept_1\obj\Debug\netcoreapp3.1\Assignment_1_Reciept_1.AssemblyInfo.cs
+C:\Users\marle\source\repos\C# class\Assignment_1_Reciept_1\Assignment_1_Reciept_1\obj\Debug\netcoreapp3.1\Assignment_1_Reciept_1.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\C# class\Assignment_1_Reciept_1\Assignment_1_Reciept_1\obj\Debug\netcoreapp3.1\Assignment_1_Reciept_1.dll
+C:\Users\marle\source\repos\C# class\Assignment_1_Reciept_1\Assignment_1_Reciept_1\obj\Debug\netcoreapp3.1\Assignment_1_Reciept_1.pdb
+C:\Users\marle\source\repos\C# class\Assignment_1_Reciept_1\Assignment_1_Reciept_1\obj\Debug\netcoreapp3.1\Assignment_1_Reciept_1.genruntimeconfig.cache
+C:\Users\marle\source\repos\C# class assgnmt1\Assignment_1_Reciept_1\Assignment_1_Reciept_1\bin\Debug\netcoreapp3.1\Assignment_1_Reciept_1.exe
+C:\Users\marle\source\repos\C# class assgnmt1\Assignment_1_Reciept_1\Assignment_1_Reciept_1\bin\Debug\netcoreapp3.1\Assignment_1_Reciept_1.deps.json
+C:\Users\marle\source\repos\C# class assgnmt1\Assignment_1_Reciept_1\Assignment_1_Reciept_1\bin\Debug\netcoreapp3.1\Assignment_1_Reciept_1.runtimeconfig.json
+C:\Users\marle\source\repos\C# class assgnmt1\Assignment_1_Reciept_1\Assignment_1_Reciept_1\bin\Debug\netcoreapp3.1\Assignment_1_Reciept_1.runtimeconfig.dev.json
+C:\Users\marle\source\repos\C# class assgnmt1\Assignment_1_Reciept_1\Assignment_1_Reciept_1\bin\Debug\netcoreapp3.1\Assignment_1_Reciept_1.dll
+C:\Users\marle\source\repos\C# class assgnmt1\Assignment_1_Reciept_1\Assignment_1_Reciept_1\bin\Debug\netcoreapp3.1\Assignment_1_Reciept_1.pdb
+C:\Users\marle\source\repos\C# class assgnmt1\Assignment_1_Reciept_1\Assignment_1_Reciept_1\obj\Debug\netcoreapp3.1\Assignment_1_Reciept_1.csproj.AssemblyReference.cache
+C:\Users\marle\source\repos\C# class assgnmt1\Assignment_1_Reciept_1\Assignment_1_Reciept_1\obj\Debug\netcoreapp3.1\Assignment_1_Reciept_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marle\source\repos\C# class assgnmt1\Assignment_1_Reciept_1\Assignment_1_Reciept_1\obj\Debug\netcoreapp3.1\Assignment_1_Reciept_1.AssemblyInfoInputs.cache
+C:\Users\marle\source\repos\C# class assgnmt1\Assignment_1_Reciept_1\Assignment_1_Reciept_1\obj\Debug\netcoreapp3.1\Assignment_1_Reciept_1.AssemblyInfo.cs
+C:\Users\marle\source\repos\C# class assgnmt1\Assignment_1_Reciept_1\Assignment_1_Reciept_1\obj\Debug\netcoreapp3.1\Assignment_1_Reciept_1.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\C# class assgnmt1\Assignment_1_Reciept_1\Assignment_1_Reciept_1\obj\Debug\netcoreapp3.1\Assignment_1_Reciept_1.dll
+C:\Users\marle\source\repos\C# class assgnmt1\Assignment_1_Reciept_1\Assignment_1_Reciept_1\obj\Debug\netcoreapp3.1\Assignment_1_Reciept_1.pdb
+C:\Users\marle\source\repos\C# class assgnmt1\Assignment_1_Reciept_1\Assignment_1_Reciept_1\obj\Debug\netcoreapp3.1\Assignment_1_Reciept_1.genruntimeconfig.cache
