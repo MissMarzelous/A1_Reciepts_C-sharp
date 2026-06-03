@@ -343,6 +343,14 @@ Understanding receipt/invoice calculations is fundamental for:
 - [Console.WriteLine() Reference](https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline)
 - [Decimal Type Documentation](https://docs.microsoft.com/en-us/dotnet/api/system.decimal)
 
+
+## 📸 Screenshots
+
+### Console Output
+
+![Console Output](a1_reciept.png)
+
+
 ## 👤 Author
 
 **Marlena Fabrick**
